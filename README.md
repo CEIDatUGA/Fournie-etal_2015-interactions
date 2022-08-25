@@ -1,3 +1,6 @@
+Prepared by Anna Willoughby 
+August 24, 2022
+
 This repository provides data from the Fournié et al. (2015) *Veterinary Research* paper, Spatiotemporal trends in the discovery of new swine infectious agents, to make the interaction data available through Global Biotic Interactions (GloBI, http://globalbioticinteractions.org). These data were originally provided in the Additional File 1: "Characteristics of the new swine infectious agents", with primary references provided by the author, Dr. Guillaume Fournié via email request on 8/19/2022. 
 
 If you have comments or questions please [open an issue](https://github.com/CEIDatUGA/Fournie-etal_2015-interactions/issues/new).
